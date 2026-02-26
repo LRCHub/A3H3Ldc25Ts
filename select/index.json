@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エビバディグッジョブ！",
+  "base_artist": "M!LK",
+  "createdAt": "2026-02-26T20:25:24.626035Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エビバディグッジョブ!",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_エビバディグッジョブ!_M!LK.txt"
+    }
+  ]
+}
